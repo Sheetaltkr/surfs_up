@@ -4,7 +4,7 @@
 
 Conduct weather analysis for Oahu Island in Hawaii using local precipitation and temperature data in order to determine if the surf and ice cream shop business is sustainable year-round. This will help convince investor W. Avy to invest in Surf n’ Shake shop which would serve surfboards and ice-cream  to locals and tourists.
 
-### Purpose
+### Purpose:
 
 The purpose of this analysis is to determine if 
 
@@ -15,7 +15,7 @@ The purpose of this analysis is to determine if
     - 	Calculating summary statistics (especially min, max, and average temperatures collected).
 
 
-### Results
+### Results:
 
 #### June Weather Stats:
 
@@ -38,13 +38,13 @@ The weather in June is great for icecream and surfing as the temperatures are no
 The weather in December is good for icecream and surfing as the temperatures are between 56 and 83. However the business may be slightly slower than in June.
 
 
-### Summary
+### Summary:
 
 - The mean temperatures for June to December in Oahu, Hawaii is 75 and 71 respectively making these months favorable for the icecream and surf shop business sustainable year round.
 - The first, second and third quartile values in statistic summary for June and Temp are between 64 and 77, which show good temperature distribution.
 - The maximum temperature is not more than 85 and minimum is not less than 56 making it perfect weather for surfing and icecream.
 
-### Additional queries
+### Additional queries:
 
 To gather more data to determine how favourable the weather is for the surf n shake shop queries given below could be helpful:
 
