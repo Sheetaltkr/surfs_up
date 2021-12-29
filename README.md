@@ -13,13 +13,19 @@ The purpose of this analysis is to determine if
 
  - Weather trends (precipitation, temperature) in "June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round." In order to do that we:
     -	accessed meteorological data in an SQLite file;
-	  - wrote queries to examine temperature data collected in the months of June and December;
-    - calculated summary statistics (especially min, max, and average temperatures collected).
-
+    - 	wrote queries to examine temperature data collected in the months of June and December;
+    - 	calculated summary statistics (especially min, max, and average temperatures collected).
 
 
 ### Results
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+
+#### June Weather Stats:
+
+![](https://github.com/Sheetaltkr/surfs_up/blob/main/Resources/June_temps.png)
+
+#### December Weather Stats:
+
+![](https://github.com/Sheetaltkr/surfs_up/blob/main/Resources/Dec_temps.png)
 
 ### Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
