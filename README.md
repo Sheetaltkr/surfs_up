@@ -1,7 +1,4 @@
 # surfs_up
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
-
-The analysis should contain the following:
 
 ## Overview of the analysis: 
 
@@ -39,7 +36,6 @@ The weather in June is great for icecream and surfing as the temperatures are no
 - Mean temp: 71
 
 The weather in December is good for icecream and surfing as the temperatures are between 56 and 83. However the business may be slightly slower than in June.
-
 
 
 ### Summary
